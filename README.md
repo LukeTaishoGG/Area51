@@ -2,4 +2,4 @@
 Testversion
 README.md を編集してみた。
 
-feature/test変更
+feature/test 変更
